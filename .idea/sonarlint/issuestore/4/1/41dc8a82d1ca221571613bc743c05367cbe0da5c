@@ -1,0 +1,17 @@
+
+V
+java:S1854";Remove this useless assignment to local variable "letters".(–¼Öùþÿÿÿÿ
+G
+java:S1481",Remove this unused "letters" local variable.(–¼Öùþÿÿÿÿ
+V
+java:S1612";Replace this lambda with method reference 'result::append'.(¶¥Ž†üÿÿÿÿ
+V
+java:S1612";Replace this lambda with method reference 'result::append'.(¶¥Ž†üÿÿÿÿ
+Q
+java:S1612"<Replace this lambda with method reference 'result1::append'.(¼®»0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›êÞÂúÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'io.reactivex.Observable'.(–˜¼
+0
+java:S1220""Move this file to a named package.
